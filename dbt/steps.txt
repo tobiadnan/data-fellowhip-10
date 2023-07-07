@@ -1,0 +1,2 @@
+1. masuk ke env dengan cara venv\Scripts\activate
+2. create project dengan mageai dengan cara 'docker run -it -p 6789:6789 -v /home/user/src:/home/src mageai/mageai /app/run_app.sh mage start df_10_tobi'
